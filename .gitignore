@@ -10,6 +10,10 @@ __pycache__/
 *.tfstate
 *.tfstate.*
 
+#Ignore In Progress files
+*.working
+.working
+
 # Crash log files
 crash.log
 crash.*.log
